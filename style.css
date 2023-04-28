@@ -54,7 +54,7 @@ img{
 .attribution a {
 	 color: hsl(228, 45%, 44%); 
 }
-@media screen and (max-width:375px){
+@media screen and (min-width:375px) and (max-width:520px){
 	.mainContainer{
 		margin: 6rem 0;
 	}
